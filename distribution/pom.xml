@@ -151,7 +151,6 @@
 		<dependency>
 			<groupId>com.github.jsonld-java</groupId>
 			<artifactId>jsonld-java</artifactId>
-			<version>0.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.semarglproject</groupId>
