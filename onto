@@ -1,0 +1,1079 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Prefix name="" IRI="https://hubic.com/home/browser/#default/Documents"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#stateRetirment"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#totalInsurancePeriod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#generalRegime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementPension"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#rate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Employed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Statement_of_individual_situation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#fullName"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalYearsofwork"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNRACL"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#beginningOfactivity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementFund"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workSector"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#basicPension"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#socialSecurityNumber"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MrBobIndividualSituation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#birthDate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementAge"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SAM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#nationality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#had"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PensionCategory"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+            <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementFund"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+            <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workSector"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PensionCategory"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementFund"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workSector"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Statement_of_individual_situation"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementFund"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#basicPension"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#generalRegime"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#generalRegime"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#generalRegime"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PensionCategory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workSector"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PensionCategory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#stateRetirment"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#basicPension"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#generalRegime"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#basicPension"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#basicPension"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNRACL"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#privateRegime"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Statement_of_individual_situation"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MrBobIndividualSituation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#stateRetirment"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNRACL"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCEM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ensuredBy"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#had"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workedIn"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#ARRCO"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">23,67</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2006</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2006 30,177,75</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2007 30,147,78</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2008 30,777,72</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2007</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BARAN__PHILIPPE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2009 29,555,78</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#BLANC_JEAN_PIERRE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2009</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNAV"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">120</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#CNRACL"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">8</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Employed"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1998 13,100,00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Employed"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2002</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2002 28,477,33</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2003 28,744,11</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2004 28,997,14</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2005 28,788,99</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2005</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiBesancon"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">28</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1986</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1986 23,553,53</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1987 23,222,50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1988 24,493,51</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1989 24,658,71</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1989</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#EsiStrasbourg"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1993</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1993 25,144,56</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1994 26,123,31</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#FRANCHE_COMTE_MIN_university"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">8</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1995</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1995 26,963,45</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1996 27,155,78</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1997 27,298,12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1997</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#INTUIGO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">8</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#IRCANTEC"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1,387</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2011 30,788,14</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MOREAU_CHARLEAN"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2011</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SAM"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MrBobIndividualSituation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">24,477,71</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MrBobIndividualSituation"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">120</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#rate"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#MrBobIndividualSituation"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">50%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2010 29,744,55</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#National_engineering_school"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2010</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1999</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1999 28,633,17</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2000 28,788,63</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2001 28,922,14</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2001</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#PETOT_FRANCK"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#RAFP"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">263</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1981 19,117,727,77</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1982 19,555,47</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1983 20,199,45</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1984 20,788,12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1985 21,788,55</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1985</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#REDON_ALBERT"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">20</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1990</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1990 26,155,12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1991 25,255,15</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">1992 25,147,58</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1992</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#high_school_of_Mechanics_Microtechnology"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#age"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">60</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#beginningOfactivity"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1981</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#birthDate"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1956</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#fullName"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Bob Jacob</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#nationality"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">French</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementAge"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">62</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#socialSecurityNumber"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#mrBob"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">0198789965</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1989</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <NamedIndividual IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#paternityLeave"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#workSector"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#had"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#accordedWith"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementFund"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#From"/>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SAM"/>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementPension"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#To"/>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementPension"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#rate"/>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementPension"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Statement_of_individual_situation"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalYearsofwork"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#Public"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#private"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#age"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#beginningOfactivity"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#birthDate"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#fullName"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#nationality"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#complementaryPension"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementAge"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#socialSecurityNumber"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#totalInsurancePeriod"/>
+        <Class IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#theInsured"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SAM"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SalaryPerYear"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalQuarters"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#TotalYearsofwork"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#WorkPeriod"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#age"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#beginningOfactivity"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#birthDate"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#fullName"/>
+        <Datatype abbreviatedIRI="xsd:Name"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#nationality"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#numberOfPoints"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#retirementAge"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#socialSecurityNumber"/>
+        <Datatype abbreviatedIRI="xsd:double"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#totalInsurancePeriod"/>
+        <Datatype abbreviatedIRI="xsd:int"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>https://drive.google.com/drive/folders/0BxEJEYDB30AgTmlhbmkycHdUcFU#SAM</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Annual Salary</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
